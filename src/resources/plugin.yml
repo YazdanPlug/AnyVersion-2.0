@@ -1,0 +1,5 @@
+name: AnyVersion
+main: ir.yzplug.anyversion.AnyVersion
+version: 1.0(api 2.0)
+author: YazdanPlug
+description: Allows connection of outdated/outrunned clients
