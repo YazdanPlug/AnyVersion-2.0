@@ -1,0 +1,13 @@
+#Versions allowed for joining to server
+#you can adding the protocol for joining in server
+Versions:
+  - 398
+  - 399
+  - 400
+  - 406
+  - 407
+  - 408
+  - 409
+  - 410
+  - 411
+  - 419
